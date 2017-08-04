@@ -1,5 +1,7 @@
 # Errbot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/errbot.svg)](https://greenkeeper.io/)
+
 What sucks more than error handling in your [Node](http://nodejs.org) application? Very few things, my friends. Introducing Errbot: a few lines of sentient code that help you correctly handle and display friendly error messages.
 
 Errbot was developed by humans at [Original Machine](http://originalmachine.com), for their social jukebox/music licensing app, [Mixdown](http://mixdown.co), so it's intended for use in applications that talk over HTTP. But it's easy to extend, so don't worry if you're using something else.
