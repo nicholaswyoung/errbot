@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nicholaswyoung/errbot",
   "devDependencies": {
-    "mocha": "1.21.5",
+    "mocha": "3.5.3",
     "chai": "1.10.0"
   }
 }
